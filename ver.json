@@ -4,6 +4,7 @@
   "apkUrl": "https://play.google.com/",
   "changelog": "Minor Changes",
   "update_pop": "1",
+  "radius": "5",
   "offices": [
     {
       "title": "Dev Office",
