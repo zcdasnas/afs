@@ -6,9 +6,9 @@
   "update_pop": "1",
   "offices": [
     {
-      "title": "Head Office",
-      "latitude": 23.8103,
-      "longitude": 90.4125
+      "title": "Dev Office",
+      "latitude": 23.747164,
+      "longitude": 90.396676
     },
     {
       "title": "SP Office",
