@@ -7,21 +7,15 @@
   "radius": 5,
   "offices": [
     {
-      "title": "SP Office",
-      "latitude": 23.7472514,
-      "longitude": 90.3966518,
+      "title": "ভূমি ভবন",
+      "latitude": 23.756523295492105,
+      "longitude": 90.3994637877093,
       "radius": 5
     },
     {
-      "title": "SP Office",
-      "latitude": 23.7472514,
-      "longitude": 90.3966518,
-      "radius": 5
-    },
-    {
-      "title": "Branch Office",
-      "latitude": 23.685,
-      "longitude": 90.3563,
+      "title": "ভূমি মন্ত্রণালয়",
+      "latitude": 23.729718237827786,
+      "longitude": 90.40705210729254,
       "radius": 5
     }
   ]
