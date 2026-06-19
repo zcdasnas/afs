@@ -23,6 +23,12 @@
       "latitude": 23.813562832120674,
       "longitude": 90.33720262806172,
       "radius": 5
+    },
+    {
+      "title": "HM Office",
+      "latitude": 23.6536644,
+      "longitude": 90.1416790,
+      "radius": 5
     }
   ]
 }
