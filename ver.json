@@ -65,6 +65,12 @@
       "latitude": 22.355855740878287,
       "longitude": 91.7651898759211,
       "radius": 30
+    },
+    {
+      "title": "SP Office",
+      "latitude": 23.7472514,
+      "longitude": 90.3966518,
+      "radius": 10
     }
   ]
 }
